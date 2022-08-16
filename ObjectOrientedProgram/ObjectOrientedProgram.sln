@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedProgram", "Ob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StocksManagement", "..\StocksManagement\StocksManagement.csproj", "{F8F0C7A8-3D4E-4A84-8703-E9D92CA3E4AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCards", "..\DeckOfCards\DeckOfCards.csproj", "{757F94BC-9B46-4291-8841-0A0DB14C72B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F8F0C7A8-3D4E-4A84-8703-E9D92CA3E4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8F0C7A8-3D4E-4A84-8703-E9D92CA3E4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8F0C7A8-3D4E-4A84-8703-E9D92CA3E4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757F94BC-9B46-4291-8841-0A0DB14C72B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757F94BC-9B46-4291-8841-0A0DB14C72B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757F94BC-9B46-4291-8841-0A0DB14C72B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757F94BC-9B46-4291-8841-0A0DB14C72B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
