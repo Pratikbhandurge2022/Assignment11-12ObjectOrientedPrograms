@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Q2nGDfphEAXg3CNW2K/csMPMTmyi2AIxtK/58eF4gxlNJCj2JPSA4yJ6xSdoNM0k0MvBR02+7ux4K3HShccIg==",
+  "success": true,
+  "projectFilePath": "D:\\BridgeLabz\\Day11&12\\StocksManagement\\StocksManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prati\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

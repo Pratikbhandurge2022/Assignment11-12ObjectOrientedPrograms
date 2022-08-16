@@ -1,0 +1,5 @@
+D:\BridgeLabz\Day11&12\StocksManagement\obj\Debug\netcoreapp3.1\StocksManagement.csproj.AssemblyReference.cache
+D:\BridgeLabz\Day11&12\StocksManagement\obj\Debug\netcoreapp3.1\StocksManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz\Day11&12\StocksManagement\obj\Debug\netcoreapp3.1\StocksManagement.AssemblyInfoInputs.cache
+D:\BridgeLabz\Day11&12\StocksManagement\obj\Debug\netcoreapp3.1\StocksManagement.AssemblyInfo.cs
+D:\BridgeLabz\Day11&12\StocksManagement\obj\Debug\netcoreapp3.1\StocksManagement.csproj.CoreCompileInputs.cache
